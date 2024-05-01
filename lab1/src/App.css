@@ -1,0 +1,11 @@
+.App ul {
+  list-style-type: square;
+}
+
+.message-form {
+  margin: 1rem;
+}
+
+.message-form input, .message-form button {
+  margin-right: 0.5rem;
+}
