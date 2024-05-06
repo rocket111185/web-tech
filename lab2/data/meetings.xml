@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MeetingInfo>
+    <Meeting>
+        <ShortDescription>Small talk of Ukrainian inhabitants</ShortDescription>
+        <Date>2024-05-15</Date>
+        <Time>09:00:00</Time>
+
+        <Guests>
+            <Guest>
+                <FirstName>Vasyl</FirstName>
+                <LastName>Ivanenko</LastName>
+                <Age>48</Age>
+            </Guest>
+
+            <Guest>
+                <FirstName>Ivan</FirstName>
+                <LastName>Vyshyvanyi</LastName>
+                <Age>53</Age>
+            </Guest>
+        </Guests>
+
+        <Address>
+            <Country>Ukraine</Country>
+            <City>Kyiv</City>
+            <Street>Politekhnichna str., 41</Street>
+        </Address>
+    </Meeting>
+
+    <Meeting>
+        <ShortDescription>Additional talk of Ukrainian inhabitants</ShortDescription>
+        <Date>2024-05-15</Date>
+        <Time>11:00:00</Time>
+
+        <Guests>
+            <Guest>
+                <FirstName>Vasyl</FirstName>
+                <LastName>Ivanenko</LastName>
+                <Age>48</Age>
+            </Guest>
+
+            <Guest>
+                <FirstName>Ivan</FirstName>
+                <LastName>Vyshyvanyi</LastName>
+                <Age>53</Age>
+            </Guest>
+        </Guests>
+
+        <Address>
+            <Country>Ukraine</Country>
+            <City>Kyiv</City>
+            <Street>Politekhnichna str., 41</Street>
+        </Address>
+    </Meeting>
+
+    <Meeting>
+        <ShortDescription>Long talk of British inhabitants</ShortDescription>
+        <Date>2024-05-10</Date>
+        <Time>09:00:00</Time>
+
+        <Guests>
+            <Guest>
+                <FirstName>Sam</FirstName>
+                <LastName>Smith</LastName>
+                <Age>31</Age>
+            </Guest>
+
+            <Guest>
+                <FirstName>Kim</FirstName>
+                <LastName>Petras</LastName>
+                <Age>31</Age>
+            </Guest>
+        </Guests>
+
+        <Address>
+            <Country>Great Britain</Country>
+            <City>London</City>
+            <Street>85 Piccadilly</Street>
+        </Address>
+    </Meeting>
+</MeetingInfo>
